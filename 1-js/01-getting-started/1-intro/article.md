@@ -1,6 +1,6 @@
 # Una Introduccion a JavaScript
 
-Veamos que es tan especial en JavaScript, que podemos lograr con él y que otras tecnologías pueden susares con él.
+Veamos que es tan especial en JavaScript, que podemos lograr con él y que otras tecnologías pueden usarse con él.
 
 ## ¿Qué es JavaScript?
 
