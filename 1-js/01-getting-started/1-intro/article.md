@@ -1,12 +1,12 @@
-# An Introduction to JavaScript
+# Una Introduccion a JavaScript
 
-Let's see what's so special about JavaScript, what we can achieve with it and which other technologies play well with it.
+Veamos que es tan especial en JavaScript, que podemos lograr con él y que otras tecnologías pueden susares con él.
 
-## What is JavaScript?
+## ¿Qué es JavaScript?
 
-*JavaScript* was initially created to *"make webpages alive"*.
+*JavaScript* fue creado inicialmente para *"darle vida a las páginas web"*.
 
-The programs in this language are called *scripts*. They can be written right in the HTML and execute automatically as the page loads.
+Los programas en este lenguase se llaman *scripts*. Pueden ser escritos directamente en el HTML y ejecutados automáticamente al cargarse la página.
 
 Scripts are provided and executed as a plain text. They don't need a special preparation or a compilation to run.
 
